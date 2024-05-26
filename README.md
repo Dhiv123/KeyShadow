@@ -1,6 +1,6 @@
 This Keylogger project captures and logs keystrokes from a user's keyboard. 
 
-The keylogger records all key presses, including alphanumeric characters and special keys like space and enter, along with timestamps for each event. 
+The keylogger records all key presses, including alphanumeric characters and special keys, along with timestamps for each event. 
 
 To stop the keylogging session, simply press the esc key. 
 
