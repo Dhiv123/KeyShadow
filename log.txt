@@ -1,0 +1,174 @@
+Cybersecurity Keylogger Log
+===========================
+Logging started at: 2024-05-26 19:42:33
+
+
+2024-05-26 19:42:39 - Key pressed: g 
+
+2024-05-26 19:42:39 - Key pressed: o 
+
+2024-05-26 19:42:39 - Key pressed: o 
+
+2024-05-26 19:42:40 - Key pressed: g 
+
+2024-05-26 19:42:40 - Key pressed: l 
+
+2024-05-26 19:42:40 - Key pressed: e 
+
+2024-05-26 19:42:40 - Special key pressed: SPACE 
+
+2024-05-26 19:42:41 - Key pressed: s 
+
+2024-05-26 19:42:41 - Key pressed: e 
+
+2024-05-26 19:42:41 - Key pressed: a 
+
+2024-05-26 19:42:42 - Key pressed: r 
+
+2024-05-26 19:42:42 - Key pressed: c 
+
+2024-05-26 19:42:42 - Key pressed: h 
+
+2024-05-26 19:42:43 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:44 - Special key pressed: Key.backspace 
+
+2024-05-26 19:42:46 - Special key pressed: Key.media_volume_mute 
+
+2024-05-26 19:42:46 - Special key pressed: Key.media_volume_mute 
+
+2024-05-26 19:42:47 - Special key pressed: Key.media_volume_down 
+
+2024-05-26 19:42:48 - Special key pressed: Key.media_volume_down 
+
+2024-05-26 19:42:48 - Special key pressed: Key.media_volume_up 
+
+2024-05-26 19:42:49 - Special key pressed: Key.media_volume_up 
+
+2024-05-26 19:42:54 - Special key pressed: Key.alt_l 
+
+2024-05-26 19:42:54 - Special key pressed: Key.tab 
+
+2024-05-26 19:43:00 - Key pressed: n 
+
+2024-05-26 19:43:00 - Key pressed: o 
+
+2024-05-26 19:43:00 - Key pressed: t 
+
+2024-05-26 19:43:01 - Key pressed: e 
+
+2024-05-26 19:43:10 - Key pressed: c 
+
+2024-05-26 19:43:10 - Key pressed: y 
+
+2024-05-26 19:43:10 - Key pressed: b 
+
+2024-05-26 19:43:10 - Key pressed: e 
+
+2024-05-26 19:43:10 - Key pressed: r 
+
+2024-05-26 19:43:10 - Key pressed: s 
+
+2024-05-26 19:43:11 - Key pressed: e 
+
+2024-05-26 19:43:11 - Key pressed: c 
+
+2024-05-26 19:43:11 - Key pressed: u 
+
+2024-05-26 19:43:11 - Key pressed: r 
+
+2024-05-26 19:43:12 - Key pressed: i 
+
+2024-05-26 19:43:12 - Key pressed: t 
+
+2024-05-26 19:43:12 - Key pressed: y 
+
+2024-05-26 19:43:13 - Special key pressed: ENTER 
+
+2024-05-26 19:43:14 - Key pressed: 1 
+
+2024-05-26 19:43:15 - Key pressed: 2 
+
+2024-05-26 19:43:15 - Key pressed: 3 
+
+2024-05-26 19:43:15 - Special key pressed: ENTER 
+
+2024-05-26 19:43:16 - Special key pressed: Key.shift 
+
+2024-05-26 19:43:16 - Key pressed: @ 
+
+2024-05-26 19:43:16 - Key pressed: # 
+
+2024-05-26 19:43:16 - Key pressed: $ 
+
+2024-05-26 19:43:18 - Special key pressed: ENTER 
+
+2024-05-26 19:43:19 - Special key pressed: Key.shift_r 
+
+2024-05-26 19:43:19 - Key pressed: G 
+
+2024-05-26 19:43:21 - Key pressed: o 
+
+2024-05-26 19:43:21 - Key pressed: o 
+
+2024-05-26 19:43:21 - Key pressed: g 
+
+2024-05-26 19:43:21 - Key pressed: l 
+
+2024-05-26 19:43:21 - Key pressed: r 
+
+2024-05-26 19:43:22 - Special key pressed: ENTER 
+
+2024-05-26 19:43:24 - Special key pressed: Key.backspace 
+
+2024-05-26 19:43:24 - Special key pressed: Key.backspace 
+
+2024-05-26 19:43:24 - Key pressed: e 
+
+2024-05-26 19:43:25 - Special key pressed: ENTER 
+
+2024-05-26 19:43:29 - Special key pressed: Key.cmd 
+
+2024-05-26 19:43:30 - Special key pressed: Key.cmd 
+
+2024-05-26 19:43:34 - Special key pressed: Key.esc 
+
+2024-05-26 19:43:34 - ESC pressed, exiting... 
+
+Logging stopped at: 2024-05-26 19:43:34
